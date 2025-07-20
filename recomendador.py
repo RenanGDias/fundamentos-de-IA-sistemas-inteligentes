@@ -1,3 +1,5 @@
+# Simulação didática de um sistema de recomendação de produtos baseado em busca informada com A*
+
 import heapq
 
 class Produto:
